@@ -1,4 +1,4 @@
-const FizzBuzz = require('./FizzBuzzTest');
+const FizzBuzz = require('./FizzBuzzDetector.js');
 
 const assert = require('assert')
 

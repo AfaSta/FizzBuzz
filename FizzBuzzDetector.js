@@ -52,4 +52,4 @@ class FizzBuzzDetector {
 
 }
 
-
+module.exports = FizzBuzzDetector;
